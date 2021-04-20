@@ -1,0 +1,12 @@
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\bin\Debug\net5.0\dna2.Shared.deps.json
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\bin\Debug\net5.0\dna2.Shared.dll
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\bin\Debug\net5.0\ref\dna2.Shared.dll
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\bin\Debug\net5.0\dna2.Shared.pdb
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\dna2.Shared.csprojAssemblyReference.cache
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\dna2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\dna2.Shared.AssemblyInfoInputs.cache
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\dna2.Shared.AssemblyInfo.cs
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\dna2.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\dna2.Shared.dll
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\ref\dna2.Shared.dll
+C:\Users\mnjihw\Documents\Visual Studio 2019\Projects\dna2\dna2\Shared\obj\Debug\net5.0\dna2.Shared.pdb
